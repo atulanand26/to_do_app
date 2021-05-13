@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "to_do_app"
